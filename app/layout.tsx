@@ -1,0 +1,3 @@
+import type {Metadata} from "next"; import "./globals.css"; import SiteShell from "@/components/SiteShell";
+export const metadata:Metadata={title:"Bharat Darshan — Heritage Atlas of India",description:"Explore India's monuments, architecture and cultural heritage."};
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body><SiteShell>{children}</SiteShell></body></html>}

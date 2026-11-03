@@ -1,0 +1,232 @@
+[
+  {
+    "monument": "taj-mahal",
+    "file": "File:Taj Mahal in March 2004.jpg",
+    "localImage": "/images/monuments/taj-mahal.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3ATaj_Mahal_in_March_2004.jpg",
+    "photographer": "Dhirad , picture edited by J. A. Knudsen",
+    "credit": "see permission",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "monument": "agra-fort",
+    "file": "File:Macaque India 3.jpg",
+    "localImage": "/images/monuments/agra-fort.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMacaque_India_3.jpg",
+    "photographer": "Thomas Schoch",
+    "credit": "own work at http://www.retas.de/thomas/travel/india2007/index.html",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "monument": "qutb-minar",
+    "file": "File:Qutb Minar 2011.jpg",
+    "localImage": "/images/monuments/qutb-minar.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AQutb_Minar_2011.jpg",
+    "photographer": "Sfu",
+    "credit": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "monument": "humayuns-tomb",
+    "file": "File:Tomb of Humayun, Delhi.jpg",
+    "localImage": "/images/monuments/humayuns-tomb.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3ATomb_of_Humayun%2C_Delhi.jpg",
+    "photographer": "Muhammad Mahdi Karim",
+    "credit": "Own work",
+    "licence": "GFDL 1.2",
+    "licenceUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html"
+  },
+  {
+    "monument": "red-fort",
+    "file": "File:Red Fort in Delhi 03-2016 img3.jpg",
+    "localImage": "/images/monuments/red-fort.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3ARed_Fort_in_Delhi_03-2016_img3.jpg",
+    "photographer": "A.Savin",
+    "credit": "Own work",
+    "licence": "FAL",
+    "licenceUrl": "http://artlibre.org/licence/lal/en"
+  },
+  {
+    "monument": "khajuraho-temples",
+    "file": "File:Khajuraho Devi Jagadambi Temple 2010.jpg",
+    "localImage": "/images/monuments/khajuraho-temples.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AKhajuraho_Devi_Jagadambi_Temple_2010.jpg",
+    "photographer": "Marcin Białek",
+    "credit": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "monument": "hawa-mahal",
+    "file": "File:Hawa Mahal 2011.jpg",
+    "localImage": "/images/monuments/hawa-mahal.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AHawa_Mahal_2011.jpg",
+    "photographer": "Marcin Białek",
+    "credit": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "monument": "amber-fort",
+    "file": "File:Amber Fort-Jaipur-India0010.JPG",
+    "localImage": "/images/monuments/amber-fort.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAmber_Fort-Jaipur-India0010.JPG",
+    "photographer": "Diego Delso",
+    "credit": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "monument": "chittorgarh-fort",
+    "file": "File:Chittorgarh fort.JPG",
+    "localImage": "/images/monuments/chittorgarh-fort.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AChittorgarh_fort.JPG",
+    "photographer": "Ssjoshi111",
+    "credit": "Own work",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "monument": "rani-ki-vav",
+    "file": "File:Rani ki vav 10.jpg",
+    "localImage": "/images/monuments/rani-ki-vav.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3ARani_ki_vav_10.jpg",
+    "photographer": "Bernard Gagnon",
+    "credit": "Own work",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "monument": "modhera-sun-temple",
+    "file": "File:Sun Temple, Modhera 01.jpg",
+    "localImage": "/images/monuments/modhera-sun-temple.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3ASun_Temple%2C_Modhera_01.jpg",
+    "photographer": "Bernard Gagnon",
+    "credit": "Own work",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "monument": "ajanta-caves",
+    "file": "File:Ajanta caves panorama 2010.jpg",
+    "localImage": "/images/monuments/ajanta-caves.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAjanta_caves_panorama_2010.jpg",
+    "photographer": "Marcin Białek",
+    "credit": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "monument": "brihadeeswarar-temple",
+    "file": "File:Brihadeeswarar Temple 02.jpg",
+    "localImage": "/images/monuments/brihadeeswarar-temple.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABrihadeeswarar_Temple_02.jpg",
+    "photographer": "Bernard Gagnon",
+    "credit": "Own work",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "monument": "meenakshi-temple",
+    "file": "File:Madurai, India.jpg",
+    "localImage": "/images/monuments/meenakshi-temple.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AMadurai%2C_India.jpg",
+    "photographer": "Bernard Gagnon",
+    "credit": "Own work",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "monument": "mysore-palace",
+    "file": "File:Old Amba Vilas Palace Mysore.jpg",
+    "localImage": "/images/monuments/mysore-palace.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AOld_Amba_Vilas_Palace_Mysore.jpg",
+    "photographer": "Not specified",
+    "credit": "http://www.higman.de/Henry%20Irwin/images/mysore1.jpg",
+    "licence": "Public domain",
+    "licenceUrl": ""
+  },
+  {
+    "monument": "hampi",
+    "file": "File:Virupaksha Temple - Gopuram - Detail - 1.jpg",
+    "localImage": "/images/monuments/hampi.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AVirupaksha_Temple_-_Gopuram_-_Detail_-_1.jpg",
+    "photographer": "Ingo Mehling",
+    "credit": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "monument": "charminar",
+    "file": "File:Charminar Hyderabad 1.jpg",
+    "localImage": "/images/monuments/charminar.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3ACharminar_Hyderabad_1.jpg",
+    "photographer": "DidierTais",
+    "credit": "Own work",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "monument": "shore-temple",
+    "file": "File:Shore Temple 01.jpg",
+    "localImage": "/images/monuments/shore-temple.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AShore_Temple_01.jpg",
+    "photographer": "Bernard Gagnon",
+    "credit": "Own work",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "monument": "konark-sun-temple",
+    "file": "File:Stone wheel engraved in the 13th century built Konark Sun Temple in Orissa, India.jpg",
+    "localImage": "/images/monuments/konark-sun-temple.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AStone_wheel_engraved_in_the_13th_century_built_Konark_Sun_Temple_in_Orissa%2C_India.jpg",
+    "photographer": "Subhrajyoti07",
+    "credit": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "monument": "sanchi-stupa",
+    "file": "File:Buddha Statue, Sanchi 01.jpg",
+    "localImage": "/images/monuments/sanchi-stupa.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABuddha_Statue%2C_Sanchi_01.jpg",
+    "photographer": "Bernard Gagnon",
+    "credit": "Own work",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "monument": "victoria-memorial",
+    "file": "File:Pavilion at the Victoria Memorial, Kolkata 01.jpg",
+    "localImage": "/images/monuments/victoria-memorial.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3APavilion_at_the_Victoria_Memorial%2C_Kolkata_01.jpg",
+    "photographer": "Bernard Gagnon",
+    "credit": "Own work",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "monument": "fatehpur-sikri",
+    "file": "File:Fatehpur-Fatehpur Sikri India0002.JPG",
+    "localImage": "/images/monuments/fatehpur-sikri.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AFatehpur-Fatehpur_Sikri_India0002.JPG",
+    "photographer": "Diego Delso",
+    "credit": "Own work",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "monument": "ellora-caves",
+    "file": "File:Ellora Caves, India, Kailasanatha Temple.jpg",
+    "localImage": "/images/monuments/ellora-caves.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File%3AEllora_Caves%2C_India%2C_Kailasanatha_Temple.jpg",
+    "photographer": "Vyacheslav Argenberg",
+    "credit": "Own work",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0"
+  }
+]
