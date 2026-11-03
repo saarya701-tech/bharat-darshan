@@ -5561,3 +5561,51 @@ html[data-theme="dark"] .bd-day-header {
     padding: 17px;
   }
 }
+/* =========================================
+   FINAL FIX — RESTORE GOLDEN HERO TEXT
+   ========================================= */
+
+/* Entrance screen */
+.entry-gate .entry-frame,
+.entry-gate .entry-frame h1,
+.entry-gate .entry-frame h2,
+.entry-gate .entry-frame p,
+.entry-gate .entry-frame span,
+.entry-gate .entry-kicker,
+.entry-gate .entry-description,
+.entry-gate .entry-footer,
+.entry-gate .entry-top-ornament,
+.entry-gate .entry-divider span {
+  color: #f1d49a !important;
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+/* Main homepage hero */
+.cinematic-hero .arch-inner,
+.cinematic-hero .arch-inner h1,
+.cinematic-hero .arch-inner h2,
+.cinematic-hero .arch-inner p,
+.cinematic-hero .arch-inner span,
+.cinematic-hero .hero-kicker,
+.cinematic-hero .hero-subtitle,
+.cinematic-hero .hero-footnote {
+  color: #f1d49a !important;
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+/* Entrance button */
+.entry-gate .entry-start-button,
+.entry-gate .entry-start-button span,
+.entry-gate .entry-start-button svg {
+  color: #fff0d3 !important;
+}
+
+/* Keep decorative gold elements visible */
+.entry-gate .entry-frame::before,
+.entry-gate .entry-frame::after,
+.entry-gate .entry-corner {
+  color: #e5c17d !important;
+  opacity: 1 !important;
+}
